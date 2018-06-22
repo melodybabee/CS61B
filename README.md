@@ -1,2 +1,2 @@
 # CS61B
-UCB CS61B(spring, 2014)
+The labs, homework and projects of CS61B.
