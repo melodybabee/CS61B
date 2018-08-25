@@ -32,6 +32,7 @@ class OpenCommercial {
     InputStreamReader inputreader = new InputStreamReader(inputur);
     BufferedReader buffered = new BufferedReader(inputreader);
     String[] save = new String[5];
+    
     for(int i = 0;i <= 4; i++){
         save[i] = buffered.readLine();//一行一行读取，读完一行会自动转到下一行
         System.out.println(save[i]);
