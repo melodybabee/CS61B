@@ -18,6 +18,7 @@ class Nuke2{
 }
 
 //note
+
 /*class小写
 String的s大写
 System的s大写
